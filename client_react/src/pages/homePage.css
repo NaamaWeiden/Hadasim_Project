@@ -1,0 +1,40 @@
+.home-container {
+    text-align: center;
+    margin-top: 100px;
+    direction: rtl;
+  }
+  
+  .home-title {
+    font-size: 2rem;
+    margin-bottom: 40px;
+    color: #333;
+  }
+  
+  .home-button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    margin: 10px;
+    font-size: 1rem;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .home-button:hover {
+    background-color: #45a049;
+  }
+  
+  .password-container {
+    margin-top: 20px;
+  }
+  
+  .password-input {
+    padding: 10px;
+    font-size: 1rem;
+    margin-right: 10px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+  }
+  
